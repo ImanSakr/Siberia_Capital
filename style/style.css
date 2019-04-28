@@ -1,0 +1,127 @@
+body{font-family: Helvetica, Courier, Palatino, Impact, "Times New Romans";}
+
+h1{
+	margin-right: 25%;
+	margin-left: 25%;
+	font-weight: bold;	
+	text-align: center;
+	color: #3A3C40;
+	width: 50%;
+	font-size: 2.3em;
+	margin-bottom: 4.5%;
+}
+
+h2{
+	margin-top: 7%;
+	color: #3A3C40;
+}
+
+h3{
+	font-size: 10px;
+	text-transform: uppercase;
+	letter-spacing: 0.3px;
+	color: #3A3C40;
+	font-weight: bolder;
+}
+
+main{
+	margin-right: 10%;
+	margin-left: 40%;
+}
+
+figure{
+    width: 45%;
+}
+
+figure img {
+	width: 65px;
+	height: 65px;
+	border-radius: 50%;
+}
+
+#personal_data{
+    height: 15%; 
+    float: left;
+    margin-left: -35%;
+    display: inline;
+    overflow: hidden;
+    border: 0.5px solid lightgray;
+    /*margin: 10px;*/
+
+}
+
+figcaption{
+	font-weight: bold;
+    font-size: 11px;
+    margin-top: 6%;
+    text-align: center;
+}
+
+figcaption span{
+    color: #656b6d;
+    font-size: 10px;
+    margin-top: 4%;
+}
+
+#info{
+	color: #656b6d;
+	letter-spacing: 0.6px;
+	font-weight: 550;
+}
+
+.details p{
+	color: #656b6d;
+	font-size: 14px;
+}
+
+.top-left {
+	position: absolute;
+	top: 5%;
+	left: 2%;
+	background-color: white;
+	width: 14%;
+	min-width: 14%;
+	color: #848484;
+	font-style: italic;
+	font-size: 10px;
+	font-weight: bolder;
+}
+
+#upperText{
+	margin-left: 20px;
+	text-align: left;
+	margin-right: 20px;
+
+
+
+}
+
+#lowerText{
+	font-size: 8.5px;
+	font-style: normal;
+	color: #B2B2B4;
+	margin-left: 20px;
+	text-align: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+
+}
+
+button{
+	background-color: white;
+	color: #848484;
+	border: none;
+	float: right;
+}
+
+.mySlides {display:none}
+.w3-left,
+.w3-right,
+.w3-badge {
+    cursor:pointer;
+    color: transparent;
+
+}
+
+
+
